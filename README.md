@@ -1,5 +1,5 @@
 # Project Title
-Portfolio website with bootstrap layout
+Portfolio website with bootstrap framework
 
 ## Description
 
