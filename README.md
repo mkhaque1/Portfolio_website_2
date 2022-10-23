@@ -3,7 +3,7 @@ Portfolio website with bootstrap layout
 
 ## Description
 
-full responsive link: (https://mkhaque1.github.io/burger-house/)
+full responsive link: (https://mkhaque1.github.io/Portfolio_website_2/)
 
 ## Getting Started
 
